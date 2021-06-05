@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c954d5c0-b367-46bc-b3ba-9a713097bf47" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_2_with_final_geli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1235">
+              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction/SR_jpg_with_MC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_without_geli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>v16</find>
+      <find>AddActor</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/bysj/canny_test.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/testCanny.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test.txt" />
+        <option value="$PROJECT_DIR$/venv/bysj/test1.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test_xiangsu.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/image_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/CT_to_2/CTDir_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/CTDir_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/test/test_my_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/three_dimensional_reconstruction/SR_png_with_MC.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/CLAHE.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/CTDir_to_2_to_jpg.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/ct_2_180_2_400.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/CTDir_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test/thred_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/three_dimensional_reconstruction/SR_dicom_with_MC_test.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/CTDir_to_jpg.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/test/test_RGM.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/test/test_my_1.py" />
+        <option value="$PROJECT_DIR$/venv/work/replaceString.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/three_dimensional_reconstruction/SR_dicom_with_MC.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/test/dicom_to_jpg_RGM_x_y_z.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test/thred_180_500.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/test/dicom_to_jpg_RGM.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Regional_growth_method/3_dimen_shuzu/3_dimen_shuzu.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test/threshold_between.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test/test_3_and_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/test/image_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/image_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/three_dimensional_reconstruction/SR_jpg_with_MC.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/ct_2_180_2_400.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/geli/test_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/test_xiangsu.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/thred_800_with_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test_only_T.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/threshold_between.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/thred_800_with_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/threshold_between.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/test_xiangsu.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_jpg.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/getDCM.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test__T_with_geli_guge.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_2_with_final_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli_change.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/Threshold_method/image_to_2.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli_first_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_without_geli.py" />
+        <option value="$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction/SR_jpg_with_MC.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="15" />
+    <option name="width" value="1743" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Graduation_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graduation_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graduation_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graduation_project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Graduation_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Graduation_project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\Three_dimensional_region_growing_method" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\Three_dimensional_region_growing_method\image" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\test" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\Threshold_method" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\Regional_growth_method" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\Three_dimensional_region_growing_method" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\Threshold_method" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\threadshold" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\Threshold_method" />
+      <recent name="D:\pyProject\Graduation_project\venv\bysj\bysj_final_code\geli" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SR_jpg_with_MC">
+    <configuration name="3_dim_region_growth_with_geli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Graduation_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_dim_region_growth_with_geli_first_geli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Graduation_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli_first_geli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_dim_region_growth_without_geli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Graduation_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_without_geli.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SR_jpg_with_MC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Graduation_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction/SR_jpg_with_MC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_to_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Graduation_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/image_to_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SR_jpg_with_MC" />
+        <item itemvalue="Python.3_dim_region_growth_without_geli" />
+        <item itemvalue="Python.3_dim_region_growth_with_geli" />
+        <item itemvalue="Python.3_dim_region_growth_with_geli_first_geli" />
+        <item itemvalue="Python.image_to_2 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c954d5c0-b367-46bc-b3ba-9a713097bf47" name="Default Changelist" comment="" />
+      <created>1617240777748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617240777748</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2907069" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35106382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/115.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/CLAHE.py" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/three_dimensional_reconstruction/SR_jpg_with_MC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth.py" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/test/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/test/test_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/test/test_geli.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/test/test_thred.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/geli/test_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/ct_2_180_2_400.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/ct_2_180_2_400.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/CTDir_to_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/T=500.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/test_xiangsu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/test_thred.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/thred_800_with_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/threshold_between.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/CTDir_to_jpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test_thred.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction/SR_dicom_with_MC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/CTDir_to_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="58" column="27" lean-forward="true" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Threshold_method/CTDir_to_jpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/threshold_between.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_2_without_final_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/getDCM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test_thred_600.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/thred_800_with_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test_only_T.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/test_xiangsu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="42" selection-start-line="42" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/test__T_with_geli_guge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/testgeli.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_jpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/test/thred_180_500.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/test_geli.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/testgeli.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/Threshold_method/image_to_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/before155.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/testgeli.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli_change.py" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/before100.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/image_to_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli_first_geli.py" />
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/threadshold/CTDir_to_2_with_final_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_without_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/Three_dimensional_region_growing_method/3_dim_region_growth_with_geli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bysj/bysj_final_code/three_dimensional_reconstruction/SR_jpg_with_MC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
